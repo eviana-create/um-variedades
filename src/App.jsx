@@ -145,8 +145,8 @@ function App() {
 
             <div className="hero-decoration">
               <div className="price-badge">
-                <small>A PARTIR DE</small>
-                <strong>R$ 2,99</strong>
+                <small>Promoções e</small>
+                <strong>Muitas ofertas</strong>
               </div>
 
               <div className="sale-text">RASGA!</div>

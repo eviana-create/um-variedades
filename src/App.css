@@ -57,10 +57,11 @@ a {
 }
 
 .logo {
-  width: 145px;
-  height: 75px;
-  object-fit: cover;
-  border-radius: 10px;
+  width: 125px;
+  height: 82px;
+  object-fit: contain;
+  display: block;
+  border-radius: 25px;
 }
 
 .search {
@@ -536,10 +537,11 @@ a {
 }
 
 .footer-brand img {
-  width: 155px;
-  height: 80px;
-  object-fit: cover;
-  border-radius: 10px;
+  width: 115px;
+  height: 65px;
+  object-fit: contain;
+  display: block;
+  border-radius: 14px;
 }
 
 .footer-brand p {
@@ -612,9 +614,10 @@ a {
   }
 
   .logo {
-    width: 105px;
-    height: 58px;
-  }
+  width: 82px;
+  height: 62px;
+  object-fit: contain;
+}
 
   .search {
     height: 42px;
@@ -687,9 +690,12 @@ a {
     grid-template-columns: 1fr 1fr;
   }
 
-  .footer-brand {
-    grid-column: 1 / -1;
-  }
+  .footer-brand img {
+  width: 100px;
+  height: 58px;
+  object-fit: contain;
+  border-radius: 12px;
+}
 
   .footer-bottom {
     width: min(100% - 30px, 700px);
@@ -703,9 +709,11 @@ a {
   }
 
   .logo {
-    width: 88px;
-    height: 52px;
-  }
+  width: 100px;
+  height: 64px;
+  object-fit: contain;
+  border-radius: 12px;
+}
 
   .search input {
     padding: 0 10px;
