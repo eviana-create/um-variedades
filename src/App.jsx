@@ -134,7 +134,7 @@ function App() {
 
               <p>
                 Encontre produtos, ofertas e promoções especiais no
-                Rasga-Preço.
+                Um Variedades.
               </p>
 
               <a href="#ofertas" className="hero-button">
@@ -149,7 +149,7 @@ function App() {
                 <strong>MUITAS OFERTAS</strong>
               </div>
 
-              <div className="sale-text">RASGA!</div>
+              <div className="sale-text">Um Variedades!</div>
             </div>
           </div>
         </section>
@@ -185,7 +185,7 @@ function App() {
         <section className="offers section" id="ofertas">
           <div className="section-header">
             <div>
-              <span className="section-label">SÓ NO RASGA-PREÇO</span>
+              <span className="section-label">SÓ NO UM VARIEDADES</span>
               <h2>Ofertas do dia 🔥</h2>
             </div>
 
@@ -326,7 +326,7 @@ function App() {
 
         <div className="footer-bottom">
           <span>
-            © {new Date().getFullYear()} Rasga-Preço. Todos os direitos
+            © {new Date().getFullYear()} Um Variedades. Todos os direitos
             reservados.
           </span>
 
