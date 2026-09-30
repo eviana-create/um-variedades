@@ -89,8 +89,8 @@ function App() {
         <div className="header-container">
           <a href="/" className="logo-link">
             <img
-              src="/logo-rasga-preco.jpg"
-              alt="Rasga-Preço"
+              src="/um-variedades.jpg"
+              alt="um variedades"
               className="logo"
             />
           </a>
@@ -145,8 +145,8 @@ function App() {
 
             <div className="hero-decoration">
               <div className="price-badge">
-                <small>Promoções e</small>
-                <strong>Muitas ofertas</strong>
+                <small>PROMOÇÕES E</small>
+                <strong>MUITAS OFERTAS</strong>
               </div>
 
               <div className="sale-text">RASGA!</div>
@@ -235,7 +235,7 @@ function App() {
         {/* BANNER */}
         <section className="promotion-banner">
           <div>
-            <span>RASGA-PREÇO</span>
+            <span>Um Variedades</span>
             <h2>Promoções que cabem no seu bolso.</h2>
             <p>
               Confira nossas ofertas e economize nas suas compras.
@@ -299,8 +299,8 @@ function App() {
         <div className="footer-container">
           <div className="footer-brand">
             <img
-              src="/logo-rasga-preco.jpg"
-              alt="Rasga-Preço"
+              src="/um-variedades.jpg"
+              alt="Um Variedades"
             />
 
             <p>
