@@ -309,7 +309,7 @@ function App() {
           </div>
 
           <div className="footer-column">
-            <h3>Rasga-Preço</h3>
+            <h3>Um Variedades</h3>
             <a href="#inicio">Início</a>
             <a href="#categorias">Categorias</a>
             <a href="#ofertas">Ofertas</a>
